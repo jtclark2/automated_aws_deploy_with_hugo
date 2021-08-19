@@ -1,3 +1,9 @@
+# I'm following a tutorial, and we flattened the hugo install into the top level git repo. As a result, the original README.md were overwritten
+I'm adding this note and a minimalist notes, but that's why the format got a little weird (for future/real applications, just don't flatten it)
+
+
+
+
 <img src="https://raw.githubusercontent.com/gohugoio/gohugoioTheme/master/static/images/hugo-logo-wide.svg?sanitize=true" alt="Hugo" width="565">
 
 A Fast and Flexible Static Site Generator built with love by [bep](https://github.com/bep), [spf13](http://spf13.com/) and [friends](https://github.com/gohugoio/hugo/graphs/contributors) in [Go][].
