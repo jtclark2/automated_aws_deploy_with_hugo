@@ -1,5 +1,5 @@
-# Hugo Static Website Demo/Tutorial
-This is a very simple static website built with HUGO. It's barely more than a "Hello World".
+# Hugo Static Website Demo/Tutorial for AWS Deployment
+This is a very simple static website built with HUGO. The site is barely more than a "Hello World", but it's being used to configure automated deployment to AWS. The buildspec and config files are needed in this repo, though most of the configuration/setup is in AWS.
 
 # Purpose:
 1) Brief exposure to Hugo
