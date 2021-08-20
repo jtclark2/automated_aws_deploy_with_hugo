@@ -1,4 +1,9 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://cloudcomputingfoundations.s3-website-us-west-1.amazonaws.com'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'My New Hugo Site via AWS cloud9'
 theme = "ananke"
+
+[[deployment.targets]]
+# This name is arbitrary
+name = "somebucket"
+URL = "s3://cloudcomputingfoundations/?region=us-west-1" #your bucket
